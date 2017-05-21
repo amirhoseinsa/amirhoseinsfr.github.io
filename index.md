@@ -10,7 +10,7 @@
 </div>
 
 
-<div dir="rtl" align="center" style = "font-family: 'Scheherazade', serif; font-size:190%">
+<div dir="rtl" align="center" style = "font-family: 'Scheherazade', serif; font-size:190% ;color:black;">
 <br>
 خلاصه : 
 </div>
@@ -33,7 +33,13 @@
 
 </div>
 
-<div dir="rtl" align="center" style = "font-family: 'Scheherazade', serif; font-size:190%">
+<div dir="rtl" align="center" style = "font-family: 'Scheherazade', serif;">
+ <br>
+ _______________________________________________________
+</div>
+
+
+<div dir="rtl" align="center" style = "font-family: 'Scheherazade', serif; font-size:190%; color:black;">
 <br>
 تحلیل : 
 </div>
